@@ -1,0 +1,7 @@
+ollama
+validators
+tldextract
+colorama
+rich
+reportlab
+python-dotenv
